@@ -4,7 +4,7 @@
 <br>
 
 ## 対象記事
-![画像1](./Newspaper-Exercises2-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -12,7 +12,7 @@
 ```
 article.summary
 ```
-![画像2](./Newspaper-Exercises2-2.png)
+![画像2](./image02.png)
 
 <br>
 
@@ -20,6 +20,6 @@ article.summary
 ```
 article.text
 ```
-![画像3](./Newspaper-Exercises2-3.png)
+![画像3](./image03.png)
 
 <br>
